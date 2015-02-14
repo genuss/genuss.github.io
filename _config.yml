@@ -1,26 +1,25 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Ice cream
+email:       alexey@genuss.me
+author:      Alexey Genus
+description: "Ice cream lover"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "/"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-59763310-1
 
 # Optional features
 animated:           false
 show_related_posts: false
-show_post_footers:  false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: alexeygenus
 
 # Social icons
-show_social_icons: false
-github_username:
+show_social_icons: true
+github_username:   genuss
 stackoverflow_id:
 twitter_username:
 google_plus_id:
